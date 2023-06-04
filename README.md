@@ -1,4 +1,5 @@
 # Face-Detection-on-raspberrypi-with-openCV
+![Alt Text](https://i.imgur.com/nbnaCEy.jpg)
 Setting Up Open-CV and Facial Recognition From Scratch
 This will be a long stream of terminal commands forewarning. This will also take a substantial amount of time. I am currently testing out another method to make this process faster
 
