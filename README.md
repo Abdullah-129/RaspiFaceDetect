@@ -91,9 +91,6 @@ It will take ~5 Secs to boot up and run.
 
 Then you will see a small window pop up with a live stream of the Raspberry Pi Camera. Aim the camera at your face and if it puts a yellow box around your head and names you correctly, you have done it! The Raspberry Pi Camera is searching for faces and when it has been supplied with one it will draw a square box around the face. It will also determine if it is a known face displaying Unknown if it is not a known face and the name of the person if it is.
 
-# Incase You want React App to Monitor Entries
-<li><a href="https://github.com/Abdullah-129/REACT_NATIVE_EXPO_WITH_FIREBASE">App Link</a></li>
-
 
 
 
